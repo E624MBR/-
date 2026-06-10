@@ -9,6 +9,6 @@
  * npm run dev - запуск проекта, но он будет автоматически обновляться от обновления файлов.
 ---
 Скачивания библиотек.
- * npm inin -y
+
  * npm install express axios dotenv
  * npm install -d nodemon
